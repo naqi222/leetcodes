@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/naqi222/leetcodes/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/naqi222/leetcodes/tree/master/0035-search-insert-position) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naqi222/leetcodes/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Hash Table
 |  |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naqi222/leetcodes/tree/master/0150-evaluate-reverse-polish-notation) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/naqi222/leetcodes/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->

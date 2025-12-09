@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/naqi222/leetcodes/tree/master/0001-two-sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naqi222/leetcodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/naqi222/leetcodes/tree/master/0217-contains-duplicate) |
+| [0704-binary-search](https://github.com/naqi222/leetcodes/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/naqi222/leetcodes/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/naqi222/leetcodes/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/naqi222/leetcodes/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Design
 |  |

@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/naqi222/leetcodes/tree/master/0001-two-sum) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/naqi222/leetcodes/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,12 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/naqi222/leetcodes/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/naqi222/leetcodes/tree/master/0150-evaluate-reverse-polish-notation) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/naqi222/leetcodes/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->

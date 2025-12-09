@@ -9,4 +9,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/naqi222/leetcodes/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/naqi222/leetcodes/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/naqi222/leetcodes/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->

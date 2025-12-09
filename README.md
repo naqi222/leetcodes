@@ -33,8 +33,13 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naqi222/leetcodes/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/naqi222/leetcodes/tree/master/0155-min-stack) |
 ## Binary Search
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/naqi222/leetcodes/tree/master/0852-peak-index-in-a-mountain-array) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/naqi222/leetcodes/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

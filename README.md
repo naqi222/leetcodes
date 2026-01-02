@@ -38,6 +38,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naqi222/leetcodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/naqi222/leetcodes/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/naqi222/leetcodes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/naqi222/leetcodes/tree/master/0232-implement-queue-using-stacks) |
 ## Binary Search
 |  |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/naqi222/leetcodes/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/naqi222/leetcodes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/naqi222/leetcodes/tree/master/0232-implement-queue-using-stacks) |
 ## Sorting
 |  |
@@ -56,5 +58,6 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/naqi222/leetcodes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/naqi222/leetcodes/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
